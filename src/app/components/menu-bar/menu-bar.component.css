@@ -1,0 +1,21 @@
+.container__menu-bar {
+  display: flex;
+  align-items: center;
+}
+
+.container__menu-bar > h2 {
+  border-right: 2px solid white;
+  padding-right: 30px;
+}
+
+.container__menu-bar > ul {
+  padding-left: 30px;
+  display: flex;
+  flex-direction: row;
+}
+
+.container__menu-bar > ul > li {
+  margin-right: 12px;
+  list-style: none;
+}
+
