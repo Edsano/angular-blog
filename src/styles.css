@@ -6,12 +6,12 @@
 }
 
 body {
-  background-color: #ffffff;
-  color: #111111;
+  background-color: #111111;
+  color: white;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana;
 }
 
 a {
   text-decoration: none;
-  color: #111111;
+  color: white;
 }

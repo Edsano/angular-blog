@@ -3,11 +3,11 @@
   align-items: center;
 }
 
-.container__menu-bar > h2 {
-  border-right: 2px solid #111111;
+.container__menu-bar > a > h2 {
+  border-right: 2px solid white;
   padding-right: 30px;
   font-size: 32px;
-  color: #222cbd;
+  color: white;
 }
 
 .container__menu-bar > ul {
