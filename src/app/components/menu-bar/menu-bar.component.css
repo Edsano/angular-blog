@@ -4,8 +4,10 @@
 }
 
 .container__menu-bar > h2 {
-  border-right: 2px solid white;
+  border-right: 2px solid #111111;
   padding-right: 30px;
+  font-size: 32px;
+  color: #222cbd;
 }
 
 .container__menu-bar > ul {
@@ -17,5 +19,10 @@
 .container__menu-bar > ul > li {
   margin-right: 12px;
   list-style: none;
+  font-size: 18px;
+}
+
+.container__menu-bar > ul > li:hover {
+  text-decoration: underline;
 }
 
